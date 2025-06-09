@@ -1,5 +1,4 @@
 import streamlit as st
-import joblib
 import re
 import nltk
 from nltk.tokenize import word_tokenize
